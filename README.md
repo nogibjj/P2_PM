@@ -5,3 +5,5 @@ This is Project 2 where I write Command-Line Tool. Here I take some creative fre
 Here I create a .py file that is run on the command line. It takes an arguement follow it "describe.py random_data.csv" and it spits out the number of rows and columns, as well as summary statistics for all numeric columns.
 
 This can be super useful and save lots of times over many iterations as I will always be having to grab summary statistics from data files. Anything more complex than this and it probably wouldn't be feasible or even work in the long run (it follows the microservice philosophy of doing one thing and doing it well). I thought a lot aboThus, this project successfully and fully satisfies the point of assigning project 2! (:
+
+EDIT: I decided to try my hand at the bash language itself althought it seems silly to write it in bash if python is available. Cheers.
